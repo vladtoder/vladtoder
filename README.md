@@ -1,4 +1,5 @@
-## Hi there 👋
+# About myself
+## I'm a BSc Computer Science and AI student at Bath, really into artificial intelligence and systems design. I’m known for being a problem-solver and working well in teams. I’m all about learning and growing, and I’m on the lookout for challenging opportunities where I can put my tech and leadership skills to use.
 
 <!--
 **vladtoder/vladtoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
