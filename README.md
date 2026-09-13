@@ -76,4 +76,4 @@ Configurable evaluation forms, live scoring, management dashboards.
 
 ### Elsewhere
 
-[vladtoder2@gmail.com](mailto:vladtoder2@gmail.com) · London, UK
+[vladtoder3@gmail.com](mailto:vladtoder2@gmail.com) · London, UK
