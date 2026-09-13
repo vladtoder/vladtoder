@@ -3,6 +3,7 @@
 Computer Science and AI graduate (First Class, University of Bath), now reading for an MSc in Digital Innovation at UCL School of Management.
 
 I build software that removes bottlenecks in real businesses — usually the unglamorous kind: a paper process that keeps losing requests, a scheduling problem nobody can verify, a quality report nobody trusts. I like constraint solvers, small deterministic systems, and shipping things people actually use.
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
