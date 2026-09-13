@@ -25,10 +25,6 @@ I build software that removes bottlenecks in real businesses — usually the ung
 
 Most of what I build is closed-source — the projects below are commercial or private, so this profile shows less code than I've actually written. Happy to walk through any of it in detail.
 
-**[Demux](https://demuxapp.com)** — AI scheduling product, taken from prototype to a launched subscription service.
-The interesting decision: *the language model never schedules*. It only translates a natural-language request into formal variables and constraints, and a CP-SAT solver builds the timetable. Schedules come out deterministic, reproducible and explainable — and the user's calendar never goes to a third-party model. Validated against Motion and Google Calendar with 18 participants on transparency and trust.
-`Python` · `CP-SAT` · `Supabase` · `Cloudflare` · `Railway`
-
 **Technical request automation** — replaced a paper-based service-request workflow across multiple commercial sites.
 A Telegram bot with role-based access control, structured workflow state and event-driven notifications, running on the office's existing in-house server — no new infrastructure or licences. Still in production.
 `Python` · `Telegram Bot API` · `MSSQL`
